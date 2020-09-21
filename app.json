@@ -1,11 +1,11 @@
 {
   "name": "Example Stripe Backend",
   "description": "For testing the Stripe example mobile apps at github.com/stripe/stripe-ios and github.com/stripe/stripe-android",
-  "repository": "https://github.com/stripe/example-mobile-backend",
+  "repository": "https://github.com/kestencg/example-mobile-backend",
   "keywords": ["ios", "stripe"],
   "env": {
     "STRIPE_TEST_SECRET_KEY": {
-      "description": "Find this at https://dashboard.stripe.com/account/apikeys (it'll look like sk_test_****)",
+      "description": "sk_test_51H5OsQKi7D1cY0XHzEHI98P1vgdHbaaGYvwALVFF22FA2imhEgoQFihlWwusiBv7OUq4HnkpHKqDLsRy8bN6WIXo00xQfxLHZv",
       "required": true
     }
   }
